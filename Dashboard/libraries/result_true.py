@@ -1,8 +1,8 @@
 import os, sys
 import pandas as pd
 
-path = '/Dashboard/result.csv'
-path_2 = '/Dashboard/test.csv'
+path = './Dashboard/result.csv'
+path_2 = './Dashboard/test.csv'
 
 def result_true():
     return os.path.exists(path)
