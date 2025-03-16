@@ -28,7 +28,6 @@ col1, col2 = st.columns([6, 4])
 
 with col1:
     st.subheader("데이터 선택")
-    st.caption("*데이터를 선택해주세요*.")
     st.markdown(
         """
         <style>

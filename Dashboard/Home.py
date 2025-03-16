@@ -11,6 +11,10 @@ st.write('# Battery-Anomaly-Detection Web')
 
 st.markdown(
     """
-    이 페이지는 제가 연습차 만든 것입니다
+    데이터 테스트를 시작하세요!
+    
+    Test 페이지에서 데이터 업로드 후 분석 시작 버튼을 누르세요!
+    
+    분석이 완료되면 Result 페이지에서 확인 가능합니다.
     """
 )
